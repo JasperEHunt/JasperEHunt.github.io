@@ -2,6 +2,7 @@
 layout: single
 title: Bio
 permalink: /bio/
+author_profile: true
 ---
 
 I am a machine learning researcher, interested in building **stable and reliable analytical tools** for complex data sets. Currently, I am a Doctoral Researcher at the University of Oxford and a visiting researcher at the Pratt Neurodevelopment Lab.
@@ -12,7 +13,7 @@ I am excited about a wide range of topics related to machine learning and statis
 * Clustering and dimensionality reduction;
 * Causal inference and uncertainty estimation;
 * Classification and regression;
-* ...And more!
+* ...and more!
 
 I am also interested in the communication of statistical concepts and public outreach to increase societal understanding of AI concepts.
 

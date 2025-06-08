@@ -1,0 +1,17 @@
+# Site settings
+
+title: Jasper E. Hunt
+email: JasperEHunt@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Jasper E. Hunt is a data scientist who completed his PhD at the 
+  University of Oxford. He has 8+ years of quantitative research
+  experience. This is his portfolio site.
+baseurl: ""
+url: ""
+github_username:  JasperEHunt
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache

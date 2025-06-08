@@ -28,7 +28,7 @@ author:
   bio     : "Data scientist with 8+ years of quantitative research experience."
   links:
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/jasperehunt/"
     - label: "GitHub"
       icon: "fa-brands fa-github"
@@ -36,6 +36,9 @@ author:
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=hVbH4RUAAAAJ"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:JasperEHunt@gmail.com"
 
 google_site_verification: "HXQi-ub-Ve_upuGLof40eHmScAHrrRh8eD9gw-FFoog"
 

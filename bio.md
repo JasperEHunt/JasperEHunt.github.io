@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Bio"
+layout: single
+title: Bio
 permalink: /bio/
 ---
 

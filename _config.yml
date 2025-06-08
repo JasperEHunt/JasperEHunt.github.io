@@ -21,8 +21,19 @@ defaults:
     words_per_minute: 250
     comments: false
 
+author:
+  name    : "Jasper E. Hunt"
+  avatar  : "/assets/images/StirlingCastle.jpg"
+  bio     : "Data scientist with 8+ years of quantitative research experience."
+  links:
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/jasperehunt/"
+    - label: "GitHub"
+      icon: "fa-brands fa-github"
+      url: "https://github.com/JasperEHunt"
+
 google_site_verification: "LTj_tLuZA3nAvJXFss4R_ZTdaBaL2nsdgUf-RbSUlNI"
-bing_site_verification: 
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"

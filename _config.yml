@@ -21,6 +21,9 @@ defaults:
     words_per_minute: 250
     comments: false
 
+google_site_verification: "LTj_tLuZA3nAvJXFss4R_ZTdaBaL2nsdgUf-RbSUlNI"
+bing_site_verification: 
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 plugins:

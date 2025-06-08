@@ -1,14 +1,25 @@
 # Site settings
 
-title: Jasper E. Hunt
-email: JasperEHunt@gmail.com
+title: "Jasper's Portfolio"
+title_separator: "|"
+name: "Jasper E. Hunt"
+email: "JasperEHunt@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Jasper E. Hunt is a data scientist who completed his PhD at the 
   University of Oxford. He has 8+ years of quantitative research
-  experience. This is his portfolio site.
+  and machine learning experience. This is his portfolio site.
+url: "http://JasperEHunt.github.io"
 baseurl: ""
-url: ""
-github_username:  JasperEHunt
+repository: "JasperEHunt/JasperEHunt.github.io"
+github_username:  "JasperEHunt"
+minimal_mistakes_skin: "dark"
+masthead_title: "Jasper E. Hunt"
+
+defaults:
+  values:
+    read_time: true
+    words_per_minute: 250
+    comments: false
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"

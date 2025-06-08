@@ -20,6 +20,7 @@ defaults:
     read_time: true
     words_per_minute: 250
     comments: false
+    author_profile: true
 
 author:
   name    : "Jasper E. Hunt"
@@ -36,7 +37,7 @@ author:
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=hVbH4RUAAAAJ"
 
-google_site_verification: "LTj_tLuZA3nAvJXFss4R_ZTdaBaL2nsdgUf-RbSUlNI"
+google_site_verification: "HXQi-ub-Ve_upuGLof40eHmScAHrrRh8eD9gw-FFoog"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"

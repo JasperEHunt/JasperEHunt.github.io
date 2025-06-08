@@ -32,6 +32,9 @@ author:
     - label: "GitHub"
       icon: "fa-brands fa-github"
       url: "https://github.com/JasperEHunt"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=hVbH4RUAAAAJ"
 
 google_site_verification: "LTj_tLuZA3nAvJXFss4R_ZTdaBaL2nsdgUf-RbSUlNI"
 

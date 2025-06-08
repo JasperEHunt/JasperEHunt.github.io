@@ -1,11 +1,11 @@
 main:
   - title: "bio"
-    url: ""
+    url: /index
   - title: "CV"
-    url: /CV/
+    url: /CV
   - title: "projects"
-    url: /projects/
+    url: /projects
   - title: "publications"
-    url: /publications/
+    url: /publications
   - title: "contact"
-    url: /contact/
+    url: /contact

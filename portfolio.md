@@ -3,8 +3,8 @@ layout: splash
 title: Portfolio
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: "#262a35"
+  overlay_filter: "0.6"
   overlay_image: /assets/images/uil_met_kaars_splash.png
   caption: "Engraving by Cornelis Bloemaert, 1625"
 excerpt: "Here, you'll find a variety of coding projects I've completed – some to solve specific problems, and some to learn new skills!"
@@ -24,5 +24,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
+{% include feature_row %}
 
 Check out my other projects on [GitHub](https://github.com/JasperEHunt)!

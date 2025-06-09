@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Selected Publications
+title: Selected publications
 author_profile: true
 ---
 
@@ -14,19 +14,19 @@ For a full list of publications, see [my Google Scholar profile](https://scholar
     **Jasper Hunt**, Shaun Warrington, Lea Roumazeilles, Saad Jbabdi, Zoltán Molnár, Stamatios Sotiropoulos, Rogier Mars  
     (Under Review, [bioRxiv](https://doi.org/10.1101/2025.05.19.653861))  
 
-* *Distinct Developmental Programs Displayed by the* Xenopus *Tadpole Accessory Optic System and Retinotectal Projection*  
+* *Distinct developmental programs displayed by the* Xenopus *tadpole accessory optic system and retinotectal projection.*  
     Uwemedimo Udoh, Kaiyuan Zheng, John Bruno, **Jasper Hunt**, Kara Pratt  
     ([Developmental Neurobiology](https://doi.org/10.1002/dneu.22968), 2025)  
 
-* *Ocular Necessities: A Neuroethological Perspective on Vertebrate Visual Development*  
+* *Ocular necessities: A neuroethological perspective on vertebrate visual development.*  
     **Jasper Hunt**, Kara Pratt, Zoltán Molnár  
     ([Brain, Behavior and Evolution](https://doi.org/10.1159/000536035), 2024)  
 
-* *A circadian-dependent preference for light displayed by Xenopus tadpoles is modulated by serotonin*  
+* *A circadian-dependent preference for light displayed by Xenopus tadpoles is modulated by serotonin.*  
     John Bruno, Uwemedimo Udoh, Jason Landen, Paige Osborn, Carson Asher, **Jasper Hunt**, Kara Pratt  
     ([iScience](https://doi.org/10.1016/j.isci.2022.105375), 2022)  
 
-* *An Innate Color Preference Displayed by Xenopus Tadpoles Is Persistent and Requires the Tegmentum*  
+* *An innate color preference displayed by* Xenopus *tadpoles is persistent and requires the tegmentum.*  
     **Jasper Hunt**, John Bruno, Kara Pratt  
     ([Frontiers in Behavioral Neuroscience](https://doi.org/10.3389/fnbeh.2020.00071), 2020)  
 

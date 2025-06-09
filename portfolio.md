@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.6"
   overlay_image: /assets/images/uil_met_kaars_splash.png
   caption: "Engraving by Cornelis Bloemaert, 1625"
-excerpt: "Here, you'll find a variety of coding projects I've completed – some to solve specific problems, and some to learn new skills!"
+excerpt: "Here, you'll find a variety of coding projects I've completed – some to solve specific problems and some to learn new skills!"
 
 feature_row:
   - image_path: /assets/images/NMF_splash.png

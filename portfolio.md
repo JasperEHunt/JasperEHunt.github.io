@@ -13,16 +13,22 @@ feature_row:
   - image_path: /assets/images/NMF_splash.png
     alt: "A drawing of a brain with graphs overlaid on it"
     title: "Sorting brain components"
+    excerpt: "<code>Bash</code> <code>MatLab</code> <code>Data visualization</code> <br> How can researchers quickly sift through hundreds of candidate brain regions? This tool helps out with that!"
     url: /brain-sorting
-    excerpt: "How can researchers quickly sift through hundreds of candidate brain regions? This tool helps out with that!"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Python_compare.png
     alt: "An outline of a brain filled with coloured squares, overlaid on some code"
     title: "Benchmarking a new analysis in Python"
-    excerpt: "How well does my new analysis perform? I built a script to answer that exact question, quantitatively."
+    excerpt: "<code>Python</code> <code>Scikit-Learn</code> <code>Statistics</code> <br> How well does my new analysis perform? I built a Python script to answer that exact question, quantitatively."
     url: /benchmarking-analysis
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}

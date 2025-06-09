@@ -14,6 +14,6 @@ I am excited about a wide range of topics related to machine learning and statis
 * Classification and regression;
 * ...and more!
 
-I am also interested in the communication of statistical concepts and public outreach to increase societal understanding of AI concepts.
+I am also interested in the communication of statistical concepts and public outreach to increase societal understanding of AI.
 
 If you are interested in collaborating on a research project or think I might be a good fit for your team, please reach out!

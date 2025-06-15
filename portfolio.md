@@ -21,13 +21,13 @@ feature_row:
     alt: "An outline of a brain filled with coloured squares, overlaid on some code"
     title: "Benchmarking a new analysis in Python"
     excerpt: "<code>Python</code> <code>Scikit-Learn</code> <code>R</code> <code>Statistics</code> <br> <br> How well does my new analysis perform? I built a Python script to answer that exact question, quantitatively."
-    url: /benchmarking-analysis
+    url: /python-compare
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Tadpole_ephys.png
     alt: "An image of two tadpoles looking at each other, with electrophysiology data above"
     title: "Machine learning-based classification of cells"
-    excerpt: "<code>R</code> <code>SQL</code> <code>Machine learning</code> <Random forest> <br> <br> Two brain regions can receive similar inputs, yet participate in vastly different computations. How? I built a random forest classifier model to explore this question."
+    excerpt: "<code>R</code> <code>SQL</code> <code>Machine learning</code> <code>Random forest</code> <br> <br> Two brain regions can receive similar inputs, yet participate in vastly different computations. How? I built a random forest classifier model to explore this question."
     url: /cell-classification
     btn_label: "Read More"
     btn_class: "btn--primary"
